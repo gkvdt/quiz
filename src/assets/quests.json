@@ -1,0 +1,34 @@
+[
+    {
+        "soru":"ag jkfhgs ajkhfg sajkhf gsajkh fsjad hgfjsdh gfjsda gfsadj hfkjs fjskda fgjsda fsjkd fjsa hfjsa fjhsad f ajkhfg sajkhf gsajkh fsjad hgfjsdh gfjsda gfsadj hfkjs fjskda fgjsda fsjkd fjsa hfjsa fjhsad f ajkhfg sajkhf gsajkh fsjad hgfjsdh gfjsda gfsadj hfkjs fjskda fgjsda fsjkd fjsa hfjsa fjhsad f ajkhfg sajkhf gsajkh fsjad hgf fgjsda fsjkd fjsa hfjsa fjhsad f a",
+        "a":"0000000",
+        "b":"b",
+        "c":"c",
+        "d":"d",
+        "cevap":"c"
+    },
+    {
+        "soru":"soru",
+        "a":"11111",
+        "b":"b",
+        "c":"c",
+        "d":"d",
+        "cevap":"c"
+    },
+    {
+        "soru":"soru",
+        "a":"22222",
+        "b":"b",
+        "c":"c",
+        "d":"d",
+        "cevap":"c"
+    },
+    {
+        "soru":"Aşağıdakilerden hangisi aşağıdadır?",
+        "a":"at",
+        "b":"eşek",
+        "c":"it",
+        "d":"solucan",
+        "cevap":"d"
+    }
+]
